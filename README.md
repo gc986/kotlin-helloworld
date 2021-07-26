@@ -16,6 +16,7 @@
 Выбираем "Project Template" как "Application" -><br>
 Далее выбираем "Build System" как "Gradle Kotlin". Данная штука будет собирать для нас проект -><br>
 Выбираем "Project JDK", в моём случае это будет "14 java version '14.0.2'", у вас возможно что-то другое<br>
+<img src="images/4.png">
 
 После этого нажимаем "Next". В появившемся окне оставляем всё как есть и нажимаем Finish. Откроется окно редактора.
 <img src="images/1.png">
